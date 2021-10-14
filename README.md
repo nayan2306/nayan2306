@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm </b></h1>
+  <h1 align="center"><b>Hello there, I'm Nayan Chandak </b></h1>
 </p>
 
 <p>
